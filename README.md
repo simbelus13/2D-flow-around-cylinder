@@ -14,13 +14,13 @@ This project simulates 2D incompressible flow around a cylinder using the Navier
 ---
 
 ## Simulation Details
-- **Reynolds Number**: \( Re = 10 \)
-- **Grid Resolution**: \( 600 \times 200 \)
-- **Domain Size**: \( 4.0 \times 1.5 \) (length × height)
+- **Reynolds Number**: Re = 10
+- **Grid Resolution**: 600 × 200
+- **Domain Size**: 4.0 × 1.5 (length × height)
 - **Cylinder Parameters**:
-  - Center: \( (0.5, 0.75) \)
-  - Radius: \( 0.05 \)
-- **Time Step**: \( \Delta t = 0.00005 \)
+  - Center: (0.5, 0.75)
+  - Radius: 0.05
+- **Time Step**: Δt = 0.00005
 - **Iterations**: 10,000
 
 ---
